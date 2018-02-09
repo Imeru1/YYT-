@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:375px;
+  width:385px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -26,15 +26,15 @@
   border-style:solid;
   border-color:rgba(255, 255, 255, 1);
   border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  -moz-box-shadow:0px 0px 15px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:0px 0px 15px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:0px 0px 15px rgba(0, 0, 0, 0.349019607843137);
 }
 #u0 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
+  left:10px;
+  top:10px;
   width:375px;
   height:667px;
 }
@@ -75,8 +75,8 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
+  left:10px;
+  top:10px;
   width:375px;
   height:50px;
 }
@@ -100,8 +100,8 @@
 #u4 {
   border-width:0px;
   position:absolute;
-  left:334px;
-  top:16px;
+  left:344px;
+  top:26px;
   width:19px;
   height:19px;
 }
@@ -133,8 +133,8 @@
 #u6 {
   border-width:0px;
   position:absolute;
-  left:118px;
-  top:17px;
+  left:128px;
+  top:27px;
   width:31px;
   height:17px;
   font-size:15px;
@@ -184,8 +184,8 @@
 #u8 {
   border-width:0px;
   position:absolute;
-  left:221px;
-  top:17px;
+  left:231px;
+  top:27px;
   width:31px;
   height:17px;
   font-size:15px;
@@ -244,8 +244,8 @@
 #u10 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:617px;
+  left:10px;
+  top:627px;
   width:375px;
   height:50px;
 }
@@ -269,8 +269,8 @@
 #u12 {
   border-width:0px;
   position:absolute;
-  left:182px;
-  top:38px;
+  left:192px;
+  top:48px;
   width:11px;
   height:2px;
 }
@@ -286,8 +286,8 @@
 #u14 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:50px;
+  left:10px;
+  top:60px;
   width:375px;
   height:567px;
   overflow:hidden;
@@ -3972,8 +3972,8 @@
 #u257 {
   border-width:0px;
   position:absolute;
-  left:172px;
-  top:17px;
+  left:182px;
+  top:27px;
   width:31px;
   height:17px;
   font-size:15px;
@@ -4015,8 +4015,8 @@
 #u259 {
   border-width:0px;
   position:absolute;
-  left:52px;
-  top:627px;
+  left:62px;
+  top:637px;
   width:31px;
   height:31px;
 }
@@ -4040,8 +4040,8 @@
 #u261 {
   border-width:0px;
   position:absolute;
-  left:291px;
-  top:630px;
+  left:301px;
+  top:640px;
   width:26px;
   height:26px;
 }
@@ -4065,8 +4065,8 @@
 #u263 {
   border-width:0px;
   position:absolute;
-  left:212px;
-  top:627px;
+  left:222px;
+  top:637px;
   width:31px;
   height:31px;
 }
@@ -4099,8 +4099,8 @@
 #u265 {
   border-width:0px;
   position:absolute;
-  left:138px;
-  top:626px;
+  left:148px;
+  top:636px;
   width:20px;
   height:33px;
   font-size:28px;
